@@ -1,4 +1,4 @@
-# hackerrank_10_days_of_javascript
+# HackerRank 10 Days of JavaScript Solution 
 
 ## [Day 0](https://github.com/ahmedawwan/hackerrank_10_days_of_javascript/tree/main/Day%200)
 
